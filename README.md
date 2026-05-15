@@ -53,8 +53,3 @@ Blog-React-Project/
 └── server/             # json-server-auth + db.json
 ```
 
-## Submission
-
-Push this repo to GitHub and email the link to the instructor with subject:
-
-`[React Course]: Blog Project`
