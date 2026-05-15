@@ -14,7 +14,7 @@ Final course project: a blog with authentication, post listing, and CRUD for the
 
 ## Run locally
 
-### 1. Start the API (port 2210)
+### 1. Start the API (port 5135)
 
 ```bash
 cd server
