@@ -1,0 +1,116 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "email": "omarelsheikh507@gmail.com",
+      "password": "$2a$10$xEJQcj75RSxZ4VJzP1RBg.nTPBVi3lNjCtF9ddJP8/ONFjxoeox1K",
+      "username": "Omar_Alsheikh",
+      "confirmPassword": "2540362omar"
+    },
+    {
+      "id": 2,
+      "email": "nadia.hassan@example.com",
+      "password": "$2a$10$abcdefghijklmnopqrstuuVwXyZ1234567890abcdefghijklmnop",
+      "username": "Nadia_Hassan",
+      "confirmPassword": "nadia1234"
+    },
+    {
+      "id": 3,
+      "email": "karim.adel@example.com",
+      "password": "$2a$10$zyxwvutsrqponmlkjihgguTsRqPoNmLkJiHgFeDcBa0987654321zy",
+      "username": "Karim_Adel",
+      "confirmPassword": "karim1234"
+    },
+    {
+      "id": 4,
+      "email": "layla.mansour@example.com",
+      "password": "$2a$10$mnbvcxzlkjhgfdsapoiuyytReWqAsDfGhJkLzXcVbNmQwErTyUiOp",
+      "username": "Layla_Mansour",
+      "confirmPassword": "layla1234"
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "A Weekend in Alexandria",
+      "description": "Sea breeze, old streets, and fresh seafood by the harbor. Alexandria is perfect for a short escape from Cairo when you need salt air and slow evenings.",
+      "imageUrl": "https://picsum.photos/id/1015/640/360",
+      "author": "Nadia_Hassan",
+      "userId": 2,
+      "createdAt": "2026-03-02T09:00:00Z"
+    },
+    {
+      "id": 2,
+      "title": "Homemade Shakshuka in 20 Minutes",
+      "description": "Tomatoes, peppers, eggs, and warm bread — this skillet breakfast works for busy mornings. Add feta if you like it creamy.",
+      "imageUrl": "https://picsum.photos/id/292/640/360",
+      "author": "Karim_Adel",
+      "userId": 3,
+      "createdAt": "2026-03-08T14:30:00Z"
+    },
+    {
+      "id": 3,
+      "title": "Why I Started Running at Sunrise",
+      "description": "Quiet roads, cooler air, and a clear head before the day begins. Three months in, consistency matters more than pace.",
+      "imageUrl": "https://picsum.photos/id/338/640/360",
+      "author": "Layla_Mansour",
+      "userId": 4,
+      "createdAt": "2026-03-12T06:45:00Z"
+    },
+    {
+      "id": 4,
+      "title": "Packing Light for a Desert Trip",
+      "description": "Layers, sunscreen, and one good scarf beat overpacking every time. Here is what actually stayed in my bag after Siwa.",
+      "imageUrl": "https://picsum.photos/id/1041/640/360",
+      "author": "Nadia_Hassan",
+      "userId": 2,
+      "createdAt": "2026-03-18T11:20:00Z"
+    },
+    {
+      "id": 5,
+      "title": "My Favorite Corner Cafes in Cairo",
+      "description": "Small tables, good espresso, and notebooks open until late. These spots are where I draft most of my StoryLane posts.",
+      "imageUrl": "https://picsum.photos/id/225/640/360",
+      "author": "Karim_Adel",
+      "userId": 3,
+      "createdAt": "2026-04-01T16:00:00Z"
+    },
+    {
+      "id": 6,
+      "title": "Learning Guitar as an Adult",
+      "description": "Fifteen minutes a day beats marathon sessions on weekends. Chords are slow, but playing one full song felt incredible.",
+      "imageUrl": "https://picsum.photos/id/326/640/360",
+      "author": "Layla_Mansour",
+      "userId": 4,
+      "createdAt": "2026-04-09T20:10:00Z"
+    },
+    {
+      "id": 7,
+      "title": "Street Photography on a Budget Phone",
+      "description": "Composition and light matter more than gear. Walk the same route twice and you will see frames you missed the first time.",
+      "imageUrl": "https://picsum.photos/id/367/640/360",
+      "author": "Nadia_Hassan",
+      "userId": 2,
+      "createdAt": "2026-04-22T08:55:00Z"
+    },
+    {
+      "title": "JavaScript",
+      "description": "The language of the web — runs in every browser, powers both frontend and backend, and is the foundation of modern web development.",
+      "imageUrl": "https://th.bing.com/th/id/OIP.ZNdKTD91Xgk1yqPI3C8FDwHaHa?w=182&h=182&c=7&r=0&o=7&pid=1.7&rm=3",
+      "author": "Omar_Alsheikh",
+      "userId": 1,
+      "createdAt": "2026-05-15T14:24:46.489Z",
+      "id": 8,
+      "updatedAt": "2026-05-15T14:25:02.034Z"
+    },
+    {
+      "title": "Getting Started with CSS",
+      "description": "CSS controls how your HTML looks — from colors and fonts to layouts and animations. Learning it well makes the difference between plain and polished.",
+      "imageUrl": "https://picsum.photos/id/20/640/360",
+      "author": "Omar_Alsheikh",
+      "userId": 1,
+      "createdAt": "2026-05-15T14:26:12.153Z",
+      "id": 9
+    }
+  ]
+}
